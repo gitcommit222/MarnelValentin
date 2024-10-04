@@ -23,6 +23,7 @@ import portfolio from "./projects/portfolio.png";
 import promptopia from "./projects/promptopia.png";
 import iequip from "./projects/I_EQUIP.png";
 import paluan from "./projects/Paluan_LANDING.png";
+import todds from "./projects/todds.png";
 
 // Services
 import design from "./design.png";
@@ -69,4 +70,5 @@ export {
 	github,
 	paluan,
 	iequip,
+	todds,
 };

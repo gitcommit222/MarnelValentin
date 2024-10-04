@@ -22,6 +22,7 @@ import {
 	freelance,
 	iequip,
 	paluan,
+	todds,
 } from "../assets";
 
 export const navLinks = [
@@ -242,6 +243,27 @@ const projects = [
 		],
 		image: paluan,
 		source_code_link: "https://github.com/gitcommit222/paluan-tour-monitoring",
+	},
+	{
+		name: "TODDS",
+		description:
+			"Collaborate with RakSquad Company to create a full stack MERN application for their client.",
+		tags: [
+			{
+				name: "NextJS 14",
+				color: "blue-text-gradient",
+			},
+			{
+				name: "tailwindcss",
+				color: "pink-text-gradient",
+			},
+			{
+				name: "Express",
+				color: "green-text-gradient",
+			},
+		],
+		image: todds,
+		source_code_link: "https://parent.toddsystemph.com",
 	},
 ];
 
