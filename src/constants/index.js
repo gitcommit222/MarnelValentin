@@ -23,6 +23,7 @@ import {
 	iequip,
 	paluan,
 	todds,
+	meta,
 } from "../assets";
 
 export const navLinks = [
@@ -264,6 +265,29 @@ const projects = [
 		],
 		image: todds,
 		source_code_link: "https://parent.toddsystemph.com",
+		url: "https://parent.toddsystemph.com",
+	},
+	{
+		name: "Metamorphose.ai",
+		description:
+			"A full stack Software-as-a-Service(SaaS) application that features photo manipulation with artificial intelligence API",
+		tags: [
+			{
+				name: "NextJS 14",
+				color: "blue-text-gradient",
+			},
+			{
+				name: "NodeJS",
+				color: "green-text-gradient",
+			},
+			{
+				name: "ServerActions",
+				color: "pink-text-gradient",
+			},
+		],
+		image: meta,
+		source_code_link: "https://github.com/gitcommit222/metamorphose.ai",
+		url: "https://metamorphose-fcvnu3je6-gitcommit222s-projects.vercel.app/",
 	},
 ];
 

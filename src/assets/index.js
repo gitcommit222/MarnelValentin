@@ -24,6 +24,7 @@ import promptopia from "./projects/promptopia.png";
 import iequip from "./projects/I_EQUIP.png";
 import paluan from "./projects/Paluan_LANDING.png";
 import todds from "./projects/todds.png";
+import meta from "./projects/meta.png";
 
 // Services
 import design from "./design.png";
@@ -34,6 +35,7 @@ import backend from "./backend.png";
 import logo from "./logo.png";
 import close from "./close.svg";
 import menu from "./menu.svg";
+import visit from "./visit.svg";
 
 // Hero Image
 import heropic from "./heropic.png";
@@ -71,4 +73,6 @@ export {
 	paluan,
 	iequip,
 	todds,
+	meta,
+	visit,
 };
